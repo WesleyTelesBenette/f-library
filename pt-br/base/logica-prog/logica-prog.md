@@ -9,7 +9,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 
 ## 📑 Informações Técnicas
 - 📖 Tempo de leitura estimado: **?** min.
-- 📜 Será utilizado como exemplo as linguagens: `C`, `C#`, `Java`, `PHP` e `Python`, porém **não se apegue a linguagem utilizada**, e sim ao conceito explicado com ela.
+- 📜 A documentação utiliza várias linguagens de programação, para você entender definitivamente, que independente da linguagem a lógica se mantem a mesma.
 
 ## Sumário
 | Nome | Conteúdo | 🔳 |
