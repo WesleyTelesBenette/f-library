@@ -18,7 +18,7 @@ Assuntos básicos (ao meu ver) que não cabem em outras categorias estabelecidas
 
 | Nome | Conteúdo | Status |
 | - | - | - |
-| Lógica de Programação | [conteúdo](base/logica-prog.md) | Escrevendo... |
+| Lógica de Programação | [conteúdo](base/logica-prog/logica-prog.md) | Escrevendo... |
 <!-- | Programação Orientada a Objetos (POO) | [[base/poo.md\|conteúdo]] | Em breve... |
 | Redes | [[base/redes.md\|conteúdo]] | Em breve... | -->
 
