@@ -12,22 +12,12 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 - 📜 Será utilizado como exemplo as linguagens: `C`, `C#`, `Java`, `PHP` e `Python`, porém **não se apegue a linguagem utilizada**, e sim ao conceito explicado com ela.
 
 ## Sumário
-| Nome | Conteúdo |
-| - | - |
-| Escrever no Console | [conteúdo](escrever-console.md) |
-| Variáveis | [conteúdo](variaveis.md) |
-
-## Inputs
-
-
-## Condição
-
-
-## Loop
-
-
-## Arrays
-
-
-## Função e Método
-
+| Nome | Conteúdo | Status |
+| - | - | - |
+| Escrever no Console | [conteúdo](escrever-console.md) | Sujeito a alterações |
+| Variáveis | [conteúdo](variaveis.md) | Sujeito a alterações |
+| Inputs on Console | | Em breve... |
+| Condição | | Em breve... |
+| Loop | | Em breve... |
+| Arrays | | Em breve... |
+| Função e Método | | Em breve... |
