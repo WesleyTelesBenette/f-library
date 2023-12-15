@@ -15,7 +15,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 | Nome | Conteúdo |
 | - | - |
 | Escrever no Console | [conteúdo](escrever-console.md) |
-
+| Variáveis | [conteúdo](variaveis.md) |
 
 ## Inputs
 
