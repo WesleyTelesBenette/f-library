@@ -21,3 +21,11 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 | Loop | | 🟥 |
 | Arrays | | 🟥 |
 | Função e Método | | 🟥 |
+
+## Autores
+### Feito por:
+- [Wesley T. Benette](https://github.com/WesleyTelesBenette).
+### Revisado por: 
+- [Wesley T. Benette](https://github.com/WesleyTelesBenette).
+- [Tiago A. de João](https://github.com/andrade-tiago)
+<!-- - Fernanda da C. Silva -->
