@@ -53,7 +53,21 @@ Claro que existem algumas particularidades 🧐 como:
 Mas no fim, escrever na tela é a ação mais básica que você pode realizar na programação. 😌
 
 ## Variáveis
+Esse é um dos conceitos mais importantes de toda programação, você vai trabalhar com isso o tempo inteiro.
 
+Variáveis são como "caixas", que precisam de:
+- Um nome (para conseguirmos indentificar que caixa é essa).
+- Um tipo (para sabermos que tipo de coisa podemos encontrar dentro dessa caixa).
+- Um conteúdo (a caixa é um local que pode ser guardado coisas, enão ela sempre tem um centeúdo, mesmo que ele seja "nada").
+
+Ok, mas para que serve uma variável?
+- Guardar informações em seu conteúdo (como: nome, e-mail, senha, algum número para uma conta, idade, cpf etc.).
+- Elas economizam tempo (quando você usa o nome de uma variável, na hora que o programa é executado esse nome é substituido pelo valor da variável, assim te evita de escrever esse conteúdo em várias partes do código, e se você precisar mudar esse conteúdo, mudar na variáveil muda automaticamente em todos os pontos que tiverem o nome dela).
+- Poder tratar dados (guardando informações num variável, você pode modificar essas informações de diversas formas).
+
+Pode aparentar ser meio confuso e difícil, mas na prática é mais simples do que parece.
+
+Veja alguns exemplos de 
 
 ## Inputs
 
