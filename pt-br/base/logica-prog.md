@@ -79,7 +79,7 @@ Tipos mais comuns:
 
 Pode aparentar ser meio confuso e difícil, mas na prática é mais simples do que parece.
 
-Veja alguns exemplos de uma variáveis `string`, com nome "minhaVariavelF", onde seu conteúdo é "F Library é a melhor!":
+Veja alguns exemplos de uma variável do tipo texto, com nome `minhaVariavelF`, onde seu conteúdo é "F Library é a melhor!":
 ```c
 //C
 char minhaVariavelF[] = "F Library é a melhor!";
@@ -102,9 +102,9 @@ $minhaVariavelF = "F Library é a melhor!";
 ```
 
 Obs. se você prestou atenção nos exemplos percebeu que:
-- A linguagem C não tem o tipo `string` 💀.
-- A linguagem C# e Java são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
-- A linguagem Python e PHP são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
+- A linguagem `C` não tem o tipo `string` 💀 (mas uma gambiarra resolve).
+- A linguagem `C`, `C#` e `Java` são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
+- A linguagem `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
   
 ## Inputs
 
