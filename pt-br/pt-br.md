@@ -13,6 +13,9 @@ Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida
 - Conteúdos divididos por categorias.
 - É utilizada, em sua maioria, um misto de **linguagem informal** com **linguagem técnica**.
 
+## ⬆️ Atualizações Previstas
+- Conclusão de "Lógica de Programação" e v0.2: 16/12/2023.
+
 ## 🔩 Base
 Assuntos básicos (ao meu ver) que não cabem em outras categorias estabelecidas.
 
