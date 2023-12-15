@@ -12,6 +12,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 ## 📑 Informações Técnicas
 - 📖 Tempo de leitura estimado: **?** min.
 - 📜 A documentação utiliza várias linguagens de programação, para você entender definitivamente, que independente da linguagem a lógica se mantem a mesma.
+</br>
 
 ## 📕 Sumário
 | Nome | Conteúdo | 🔳 |
