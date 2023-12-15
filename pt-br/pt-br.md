@@ -43,12 +43,16 @@ Algumas dicas de utilização e configuraçã
 | Node\.js |  | Em breve... |
 | Laravel |  | Em breve... | -->
 
+## ⚙️ Ferramentas Gerais
+| Nome | Conteúdo | Status |
+| - | - | - |
+|  |  |  |
+
 ## 🗃️ Databases
 dh
 | Nome | Conteúdo | Status |
 | - | - | - |
 |  |  |  |
-
 
 ## 📝 Projeto de Software
 dg
