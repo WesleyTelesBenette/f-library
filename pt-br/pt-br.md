@@ -12,7 +12,7 @@ Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida
 - Documentação cuidadosamente montada e **testada**.
 - Conteúdos divididos por categorias.
 - É utilizada, em sua maioria, um misto de **linguagem informal** com **linguagem técnica**.
-- O status de conclusão de documentações é dividido em:
+- O **status de conclusão de documentações** é dividido em:
   - 🟥 - Em breve.
   - 🟪 - Em construção.
   - 🟦 - Falta um pouco de refinamento.
