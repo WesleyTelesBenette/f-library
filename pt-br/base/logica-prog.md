@@ -26,7 +26,7 @@ Exemplo exibindo a frase "Bem-vindo ao F-Library!":
 Console.WriteLine("Bem-vindo ao F-Library!");
 ```
 ```python
-//Python
+#Python
 print("Bem-vindo ao F-Library!")
 ```
 ```php
