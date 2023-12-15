@@ -6,6 +6,7 @@ Embora pareça algo antigo ou simplesmente um conceito que pode ser uma perda de
 > Traduzindo: aprenda ou sofra constantemente 🥰.
 
 Mas claro, nada te impede de aprender programação sem saber ela...
+
 <br/>
 
 ## 📑 Informações Técnicas
