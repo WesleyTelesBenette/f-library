@@ -134,9 +134,9 @@ System.out.println("Meu nome é: " + variavelNome); //Variável com texto
 #Python
 print(variavelNome)  #Variável sozinha
 
-print(f"Meu nome é: {variavelNome}") //Variável com texto
+print(f"Meu nome é: {variavelNome}") #Variável com texto
 
-print(f"Meu nome é: " + variavelNome) //Variável com texto
+print(f"Meu nome é: " + variavelNome) #Variável com texto
 ```
 ```php
 //PHP
