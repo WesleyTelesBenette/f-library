@@ -23,7 +23,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 | Função e Método | | 🟥 |
 
 ## Autores
-### Feito por:
+### Escrito por:
 - [Wesley T. Benette](https://github.com/WesleyTelesBenette).
 ### Revisado por: 
 - [Wesley T. Benette](https://github.com/WesleyTelesBenette).
