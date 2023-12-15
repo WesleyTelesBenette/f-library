@@ -6,7 +6,7 @@ Embora pareça algo antigo, ou simplesmente um conceito que pode ser uma perca d
 
 ## 📑 Informações Técnicas
 - Tempo de leitura estimado: ? min.
-- Será utilizado como exemplo as linguagens: `C`, `C#`, `Java`, `PHP` e `Python`.
+- Será utilizado como exemplo as linguagens: `C`, `C#`, `Java`, `PHP` e `Python`, porém não se apegue a linguagem utilizado, e sim ao conceito explicado com ela.
 
 ##
 
