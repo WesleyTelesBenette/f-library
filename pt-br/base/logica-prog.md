@@ -22,6 +22,7 @@ Tudo bem, vamo logo para o código, já devo ter te entediado. 😴
 
 Para exibir algo na tela (do console), normalmente os comandos são simples e diretos.
 
+### Exemplos
 Exemplos exibindo a frase "Bem-vindo ao F-Library!":
 ```c
 //C
@@ -79,6 +80,7 @@ Tipos mais comuns 🗒️:
 
 Pode aparentar ser meio confuso e difícil 😵‍💫, mas na prática é mais simples do que parece.
 
+### Exemplos
 Veja alguns exemplos de uma variável do tipo texto, com nome `minhaVariavelF`, onde seu conteúdo é "F Library é a melhor!":
 ```c
 //C
