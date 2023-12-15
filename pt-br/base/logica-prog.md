@@ -55,20 +55,57 @@ Mas no fim, escrever na tela é a ação mais básica que você pode realizar na
 ## Variáveis
 Esse é um dos conceitos mais importantes de toda programação, você vai trabalhar com isso o tempo inteiro.
 
-Variáveis são como "caixas", que precisam de:
-- Um nome (para conseguirmos indentificar que caixa é essa).
-- Um tipo (para sabermos que tipo de coisa podemos encontrar dentro dessa caixa).
-- Um conteúdo (a caixa é um local que pode ser guardado coisas, enão ela sempre tem um centeúdo, mesmo que ele seja "nada").
+Variáveis são como "caixas" 📦, que precisam de:
+- Um **nome** (para conseguirmos indentificar que caixa é essa).
+- Um **tipo** (para sabermos que tipo de coisa podemos encontrar dentro dessa caixa).
+- Um **conteúdo** (a caixa é um local que pode ser guardado coisas, enão ela sempre tem um centeúdo, mesmo que ele seja "nada").
 
-Ok, mas para que serve uma variável?
+Ok, mas para que serve uma variável? 🤨
 - Guardar informações em seu conteúdo (como: nome, e-mail, senha, algum número para uma conta, idade, cpf etc.).
 - Elas economizam tempo (quando você usa o nome de uma variável, na hora que o programa é executado esse nome é substituido pelo valor da variável, assim te evita de escrever esse conteúdo em várias partes do código, e se você precisar mudar esse conteúdo, mudar na variáveil muda automaticamente em todos os pontos que tiverem o nome dela).
 - Poder tratar dados (guardando informações num variável, você pode modificar essas informações de diversas formas).
 
+Regras básicas sobre nomes de variáveis:
+- Só podem conter letras, números e sublinahado ( _ ).
+- Não pode começar por números.
+- Normalmente não pode ter acentos, embora algumas linguagens aceitem (mesmo assim evite usar).
+
+Tipos mais comuns:
+- `boolean`: Verdadeiro ou falso (basicamente um binário de 0 ou 1).
+- `char`: Caractere único (tipo uma única letra).
+- `string`: Texto.
+- `int`: Número inteiro.
+- `double` ou `float`: Número racional (quebrado, com vírgula).
+
 Pode aparentar ser meio confuso e difícil, mas na prática é mais simples do que parece.
 
-Veja alguns exemplos de 
+Veja alguns exemplos de uma variáveis `string`, com nome "minhaVariavelF", onde seu conteúdo é "F Library é a melhor!":
+```c
+//C
+char minhaVariavelF[] = "F Library é a melhor!";
+```
+```csharp
+//C#
+string minhaVariavelF = "F Library é a melhor!";
+```
+```java
+//Java
+String minhaVariavelF = "F Library é a melhor!";
+```
+```python
+#Python
+minhaVariavelF = "F Library é a melhor!";
+```
+```php
+//PHP
+$minhaVariavelF = "F Library é a melhor!";
+```
 
+Obs. se você prestou atenção nos exemplos percebeu que:
+- A linguagem C não tem o tipo `string` 💀.
+- A linguagem C# e Java são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
+- A linguagem Python e PHP são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
+  
 ## Inputs
 
 
