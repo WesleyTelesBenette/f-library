@@ -22,8 +22,8 @@ Tudo bem, vamo logo para o código, já devo ter te entediado. 😴
 
 Para exibir algo na tela (do console), normalmente os comandos são simples e diretos.
 
-### Exemplos
-Exemplos exibindo a frase "Bem-vindo ao F-Library!":
+### Exemplo
+Exibindo a frase "Bem-vindo ao F-Library!":
 ```c
 //C
 printf("Bem-vindo ao F-Library!");
@@ -62,9 +62,10 @@ Variáveis são como "caixas" 📦, que precisam de:
 - Um **conteúdo** (a caixa é um local que pode ser guardado coisas, enão ela sempre tem um centeúdo, mesmo que ele seja "nada").
 
 Ok, mas para que serve uma variável? 🤨
-- Guardar informações em seu conteúdo (como: nome, e-mail, senha, algum número para uma conta, idade, cpf etc.).
-- Elas economizam tempo (quando você usa o nome de uma variável, na hora que o programa é executado esse nome é substituido pelo valor da variável, assim te evita de escrever esse conteúdo em várias partes do código, e se você precisar mudar esse conteúdo, mudar na variáveil muda automaticamente em todos os pontos que tiverem o nome dela).
-- Poder tratar dados (guardando informações num variável, você pode modificar essas informações de diversas formas).
+- **Guardar informações em seu conteúdo** (como: nome, e-mail, senha, algum número para uma conta, idade, cpf etc.).
+- **Elas economizam tempo** (quando você usa o nome de uma variável, na hora que o programa é executado esse nome é substituido pelo valor da variável, assim te evita de escrever esse conteúdo em várias partes do código).
+- **Ajudam na manutenção do código** (se você precisar mudar esse conteúdo, mudar na variável muda automaticamente em todos os pontos que tiverem o nome dela).
+- **Poder tratar dados** (guardando informações num variável, você pode modificar essas informações de diversas formas).
 
 Regras básicas sobre nomes de variáveis ✍️:
 - Só podem conter letras, números e sublinahado ( _ ).
@@ -72,16 +73,16 @@ Regras básicas sobre nomes de variáveis ✍️:
 - Normalmente não pode ter acentos, embora algumas linguagens aceitem (mesmo assim evite usar).
 
 Tipos mais comuns 🗒️:
-- `boolean`: Verdadeiro ou falso (basicamente um binário de 0 ou 1).
-- `char`: Caractere único (tipo uma única letra).
-- `string`: Texto.
-- `int`: Número inteiro.
-- `double` ou `float`: Número racional (quebrado, com vírgula).
+- `boolean` : Verdadeiro ou falso (basicamente um binário de 0 ou 1).
+- `char` : Caractere único (tipo uma única letra).
+- `string` : Texto.
+- `int` : Número inteiro.
+- `double` ou `float` : Número racional (quebrado, com vírgula).
 
 Pode aparentar ser meio confuso e difícil 😵‍💫, mas na prática é mais simples do que parece.
 
-### Exemplos
-Veja alguns exemplos de uma variável do tipo texto, com nome `minhaVariavelF`, onde seu conteúdo é "F Library é a melhor!":
+### Exemplo
+Uma variável do tipo **texto**, com nome `minhaVariavelF`, onde seu conteúdo é "F Library é a melhor!":
 ```c
 //C
 char minhaVariavelF[] = "F Library é a melhor!";
@@ -103,11 +104,51 @@ minhaVariavelF = "F Library é a melhor!";
 $minhaVariavelF = "F Library é a melhor!";
 ```
 
-Obs. se você prestou atenção nos exemplos percebeu que:
+Obs. Se você prestou atenção nos exemplos percebeu que:
 - A linguagem `C` não tem o tipo `string` 💀 (mas uma gambiarra resolve).
 - A linguagem `C`, `C#` e `Java` são **estaticamente tipadas** 🗿 (para declarar uma variáveis precisa definir o tipo).
 - A linguagem `Python` e `PHP` são **dinamicamente tipadas** 🪄 (a linguagem reconhece sozinha qual o tipo da variável).
-  
+
+E por último, caso ainda esteja utiizando o console, você também pode escrever variáveis na tela.
+```c
+//C
+printf(variavelNome); //Variável sozinha
+
+printf("Meu nome é: " + variavelNome); //Variável com texto
+```
+```csharp
+//C#
+Console.WriteLine(variavelNome);  //Variável sozinha
+
+Console.WriteLine($"Meu nome é: {variavelNome}"); //Variável com texto
+
+Console.WriteLine($"Meu nome é: " + variavelNome); //Variável com texto
+```
+```java
+//Java
+System.out.println(variavelNome);  //Variável sozinha
+
+System.out.println("Meu nome é: " + variavelNome); //Variável com texto
+```
+```python
+#Python
+print(variavelNome)  #Variável sozinha
+
+print(f"Meu nome é: {variavelNome}") //Variável com texto
+
+print(f"Meu nome é: " + variavelNome) //Variável com texto
+```
+```php
+//PHP
+echo $variavelNome;  //Variável sozinha
+
+$outraVariavel = "Meu nome é: {$variavelNome}"; //Variável com texto
+echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
+
+$outraVariavel = "Meu nome é: " . $variavelNome; //Variável com texto
+echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
+```
+
 ## Inputs
 
 
