@@ -47,7 +47,7 @@ echo "Bem-vindo ao F-Library!";
 Como você pode notar é só um texto entre aspas duplas dentro de uma "função" específica da linguagem, super simples, não? 🙂
 
 Claro que existem algumas particularidades 🧐 como:
-- Caracteres que não são permitidos 😨 (caso isso aconteça, normalmente colocar \ antes dele pode ser uma solução).
+- Caracteres especiais 😨 (que podem não aparecer na tela, mas caso isso aconteça, normalmente colocar \ antes dele pode ser uma solução).
 - Pular linha 😯 (você pode pular linhas nos seus textos, normalmente se usa \n, porém pode variar entre linguagens).
 
 Mas no fim, escrever na tela é a ação mais básica que você pode realizar na programação. 😌
