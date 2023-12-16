@@ -9,7 +9,7 @@ Num resumo rápido, é uma estrutura nomeada, que faz referência a um espaço n
 > Ok, nem eu mais entendo o que eu falo 😒
 
 Você pode enxergar variáveis como "caixas", que precisam de:
-- Um **nome**: para conseguirmos indentificar que caixa é essa.
+- Um **nome**: para conseguirmos identificar que caixa é essa.
 - Um **tipo**: para sabermos que tipo de coisa podemos encontrar dentro dessa caixa.
 - Um **conteúdo**: essa caixa é um local que pode ser guardado coisas, e ela sempre tem um conteúdo, mesmo que ele seja "nada".
 
@@ -18,7 +18,7 @@ Antes de efetivamente criar uma variável, precisamos entender duas coisas princ
 > Não aguento mais, a teoria não acabaaaaaa 😭
 
 Regras básicas sobre nomes de variáveis:
-- Só podem conter letras, números e sublinahado ( _ ).
+- Só podem conter letras, números e sublinhado ( _ ).
 - Não pode começar por números.
 - Normalmente não pode ter acentos, embora algumas linguagens aceitem (mesmo assim evite usar).
 > Pelo menos eu não preciso decorar isso, a maioria das linguagens esfrega na minha cara um erro, indicando que eu na vida não sei nem ao menos nomear uma variável 😁
@@ -31,7 +31,7 @@ Tipos mais comuns 🗒️:
 | `string` | Texto | `"Fernanda"` e `"20 de Abril de 2004"` |
 | `int` | Número inteiro | `8888` e `16` |
 | `float` | Número racional | `89187918791.2f` e `3.1415f` |
-| `double` |  Número racional extendido | `516516516515615665.519581651` e `2.5` |
+| `double` |  Número racional estendido | `516516516515615665.519581651` e `2.5` |
 > Tá... não vou lembrar disso com minha memória de esquilo 🐿️, vou precisar olhar essa tabela a cada mês, semana, dia, hora, minuto e segundo da minha vida, em que eu estiver programando... 💀
 
 Pode aparentar ser meio confuso e difícil, mas na prática é mais simples do que parece.
@@ -64,11 +64,11 @@ $minhaVariavelF = "F Library é a melhor!";
 ```
 
 Obs. Se você prestou atenção nos exemplos, pode ter percebido alguns detalhes:
-- A linguagem `C` não tem o tipo `string` (porém uma gambiarra da linguagem resolve).
-- As linguagem `C`, `C#` e `Java` são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
-- As linguagem `Javascript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
+- A linguagens `C` não tem o tipo `string` (porém uma gambiarra da linguagem resolve).
+- As linguagens `C`, `C#` e `Java` são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
+- As linguagens `Javascript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
 - E que algumas linguagens como `Javascript` e `Python`, você precisa usar ponto e vírgula no final da linha.
-> 😝 - Ksksksk sou preguiçoso, só vou usar linguagem dinâmica apartir de agora. <br/>
+> 😝 - Ksksksk sou preguiçoso, só vou usar linguagem dinâmica a partir de agora. <br/>
 > `JS` - Aé? E esse seu `int` aí? To achando que é uma `string`, vou trocar o tipo dele rapidão aqui ksksksks <br/>
 > 😢 - Calma aí, amigão. Também não é assim...
 
@@ -124,9 +124,9 @@ $num = 8;
 $somaDeNum = (8 + 36) / 11;
 ```
 Obs. Vamos para mais uma análise:
-- Você pode criar expressões matemáticas (basicamente fórmulas) misturando várias operações e difinindo prioridade com parênteses.
-- Em todas as linguagens, realizar um cálculo é uma ação práticamente idêntica.
-- Você não "rodou" esses código, porém se você executasse eles, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
+- Você pode criar expressões matemáticas (basicamente fórmulas) misturando várias operações e definindo prioridade com parênteses.
+- Em todas as linguagens, realizar um cálculo é uma ação praticamente idêntica.
+- Você não "rodou" esses códigos, porém se você executasse eles, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
 > Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥 <br/>
 > Mas acho que tudo tem suas vantagens e desvantagens... 🫤 tipo as vantagens absurdas em comprar um dromedário 🥰
 
