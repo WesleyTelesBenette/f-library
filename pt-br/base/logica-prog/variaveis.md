@@ -91,7 +91,7 @@ As principais operações mais comuns:
 Vamos para um exemplo mais prático.
 
 ### Exemplo
-Uma variável chamada `num` que tem o valor `8`, somada com `36` e **depois** dividida por `11`. Onde todo esse cálculo é armazenado na variável `somaDeNum`.
+Uma variável chamada `num` que tem o valor de `8`, somada com `36` e **depois** dividida por `11`. Onde todo esse cálculo é armazenado na variável `somaDeNum`.
 
 ```c
 //C
@@ -129,9 +129,8 @@ Obs. Ok, vamos para mais uma análise:
 - Você não "rodou" esses código, porém se você executasse eles, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
 > Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥
 
-<!--
-### Título
-E por último, caso ainda esteja utiizando o console, você também pode escrever variáveis na tela.
+### Variáveis no Console
+Voltando para o tema ***console***, você também pode usar variáveis nas suas "escritas na tela". Dessa forma:
 ```c
 //C
 printf(variavelNome); //Variável sozinha
@@ -151,6 +150,14 @@ Console.WriteLine("Meu nome é: " + variavelNome); //Variável com texto
 System.out.println(variavelNome);  //Variável sozinha
 
 System.out.println("Meu nome é: " + variavelNome); //Variável com texto
+```
+```js
+//Javascript
+console.log(variavelNome)  //Variável sozinha
+
+console.log(`Meu nome é: ${variavelNome}`) //Variável com texto
+
+console.log("Meu nome é: " + variavelNome) //Variável com texto
 ```
 ```python
 #Python
