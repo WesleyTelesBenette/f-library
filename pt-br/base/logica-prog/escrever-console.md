@@ -1,6 +1,6 @@
 # ✒️ Escrever na tela (console)
 ## ✨ Introdução
-Quando se trata de programação, normalmente não é interessante criar um amontado de código se você **não consegue ver** o que está acontecendo e nem **iteragir com nada**.
+Quando se trata de programação, normalmente não é interessante criar um amontoado de código se você **não consegue ver** o que está acontecendo e nem **interagir com nada**.
 > Óbvio que não é o que você quer 🫵😠... p-pelo menos é o que eu acho 😥.
 
 Muitas linguagens são direcionadas a vários fins, como:
@@ -11,7 +11,7 @@ Muitas linguagens são direcionadas a vários fins, como:
 Logicamente indica que você poderia sim "escrever na tela" usando a tecnologia específica da sua linguagem de escolha, porém todas as linguagens possuem a capacidade de serem executadas num ***console***.
 > Uma telinha preta cheia dos código 👩‍💻, parecida com aquelas de filme de Hacker mesmo 💀.
 
-O que vai deixar todas as páginas de documetação e exemplos, **bem mais genéricas** e simples de serem entendidas.
+O que vai deixar todas as páginas de documentação e exemplos, **bem mais genéricas** e simples de serem entendidas.
 > Ou seja, vai ser fácil a ponto de qualquer Neandertal 🦖 ~~igual você~~ entender.
 
 ## 🪄 Explicação
