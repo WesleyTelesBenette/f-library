@@ -24,36 +24,36 @@ Um programa que:
 char nome[100] = "\0"; //Em C, você tem que definir a variável antes, e com um tamanho
 printf("Digite seu nome: ");
 scanf("%[^\n]", &nome); //Leitura de entrada
-printf("Bem-vindo(a) %s!", nome);
+printf("Bem-vindo(a), %s!", nome);
 ```
 ```csharp
 //C#
 Console.WriteLine ("Digite seu nome: ");
 string nome = Console.ReadLine(); //Leitura de entrada
-Console.WriteLine($"Bem-vindo(a) {nome}!");
+Console.WriteLine($"Bem-vindo(a), {nome}!");
 ```
 ```java
 //Java
 Scanner scan = new Scanner(System.in); //Scanner de leitura do Java
 System.out.println("Digite seu nome: ");
 String nome = scan.nextLine(); //Leitura de entrada
-System.out.println("Bem-vindo(a) " + nome + "!");
+System.out.println("Bem-vindo(a), " + nome + "!");
 ```
 ```js
 //JavaScript
 let nome = prompt("Digite seu nome: "); //Leitura de entrada
-console.log(`Bem-vindo(a) ${nome}!`);
+console.log(`Bem-vindo(a), ${nome}!`);
 ```
 ```python
 #Python
 nome = input("Digite seu nome: ") #Leitura de entrada
-print(f"Bem-vindo(a) {nome}!")
+print(f"Bem-vindo(a), {nome}!")
 ```
 ```php
 //PHP
 echo "Digite seu nome: ";
 $nome = fgets(STDIN); //Leitura de entrada
 $nome = rtrim($nome, "\r\n"); //Remove uma quebra no final
-echo "Bem-vindo(a) ".$nome."!";
+echo "Bem-vindo(a), ".$nome."!";
 ```
 
