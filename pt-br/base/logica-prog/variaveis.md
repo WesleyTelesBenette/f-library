@@ -69,7 +69,7 @@ Obs. Se você prestou atenção nos exemplos, pode ter percebido alguns detalhes
 - As linguagem `Javascript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
 - E que algumas linguagens como `Javascript` e `Python`, você precisa usar ponto e vírgula no final da linha.
 > 😝 - Ksksksk sou preguiçoso, só vou usar linguagem dinâmica apartir de agora. <br/>
-> `JS` - Aé? E esse seu `int` aí? To achando que é uma `string`, vou trocar o tipo ksksksks <br/>
+> `JS` - Aé? E esse seu `int` aí? To achando que é uma `string`, vou trocar o tipo dele rapidão aqui ksksksks <br/>
 > 😢 - Calma aí, amigão. Também não é assim...
 
 ### Operações Aritméticas
@@ -127,7 +127,8 @@ Obs. Ok, vamos para mais uma análise:
 - Você pode criar expressões matemáticas (basicamente fórmulas) misturando várias operações e difinindo prioridade com parênteses.
 - Em todas as linguagens, realizar um cálculo é uma ação práticamente idêntica.
 - Você não "rodou" esses código, porém se você executasse eles, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
-> Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥
+> Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥 <br/>
+> Mas acho que tudo tem suas vantagens e desvantagens... 🫤 tipo as vantagens absurdas em parar de exist- 🥰
 
 ### Variáveis no Console
 Voltando para o tema ***console***, você também pode usar variáveis nas suas "escritas na tela". Dessa forma:
@@ -177,14 +178,5 @@ echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
 $outraVariavel = "Meu nome é: " . $variavelNome; //Variável com texto
 echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
 ```
+Obs. Existem várias formas diferente de fazer a mesma coisa, como exibir uma "Variável com texto", e muitas dessas coisas na programação você decide qual usar por gosto pessoa, ou por qual fica melhor para ler e entender.
 
-
-<!--
-
-Ok, mas para que serve uma variável? 🤨
-- **Guardar informações em seu conteúdo** (como: nome, e-mail, senha, algum número para uma conta, idade, cpf etc.).
-- **Elas economizam tempo** (quando você usa o nome de uma variável, na hora que o programa é executado esse nome é substituido pelo valor da variável, assim te evita de escrever esse conteúdo em várias partes do código).
-- **Ajudam na manutenção do código** (se você precisar mudar esse conteúdo, mudar na variável muda automaticamente em todos os pontos que tiverem o nome dela).
-- **Poder tratar dados** (guardando informações num variável, você pode modificar essas informações de diversas formas).
-
--->
