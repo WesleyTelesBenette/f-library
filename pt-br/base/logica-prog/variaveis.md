@@ -24,7 +24,7 @@ Regras básicas sobre nomes de variáveis:
 > Pelo menos eu não preciso decorar isso, a maioria das linguagens esfrega na minha cara um erro, indicando que eu na vida não sei nem ao menos nomear uma variável 😁
 
 Tipos mais comuns 🗒️:
-| Tipo | Descrição | 2 Exemplos |
+| Tipo | Descrição | Exemplos |
 | - | - | - |
 | `boolean` | Verdadeiro ou falso | `true` e `false` |
 | `char` | Caractere único. | `'f'` e `'W'` |
@@ -74,7 +74,14 @@ Com variáveis numéricas como: `int`, `float` e `double`, é possível realizar
 > 🖥️ - Relaxa, a Mãe aqui faz as conta pra você, só me mandar as fórmulas que eu preciso calcular, beleza? 👍. <br/>
 > 🤩 - Obrigado, Sra. linguagem de programação rodando no meu computador!
 
-O 
+As principais operações mais comuns:
+| Símbolo | Descrição | Exemplo |
+| - | - | - |
+| `+` | Adição | `varNum = 4 + 7` |
+| `-` | Subtração | `varNum = 4 - 7` |
+| `*` | Multiplicação | `varNum = 4 * 7` |
+| `/` | Divisão | `varNum = 4 / 7` |
+| `%` | Resto de Divisão | `varNum = 4 % 7` |
 
 <!--
 ### Título
