@@ -6,7 +6,7 @@ Quando se trata de programação, normalmente não é interessante criar um amon
 Muitas linguagens são direcionadas a vários fins, como:
 - 📱 Apps de celular.
 - 🌐 Sites.
-- 🖥️ Aplicativos de computador  etc.
+- 🖥️ Aplicativos de computador etc.
 
 Logicamente indica que você poderia sim "escrever na tela" usando a tecnologia específica da sua linguagem de escolha, porém todas as linguagens possuem a capacidade de serem executadas num ***console***.
 > Uma telinha preta cheia dos código 👩‍💻, parecida com aquelas de filme de Hacker mesmo 💀.
@@ -15,7 +15,7 @@ O que vai deixar todas as páginas de documentação e exemplos, **bem mais gen�
 > Ou seja, vai ser fácil a ponto de qualquer Neandertal 🦖 ~~igual você~~ entender.
 
 ## 🪄 Explicação
-Tudo bem, vamo logo para o código, já devo ter te entediado com tantos contextos e justificativas.
+Tudo bem, vamos logo para o código, já devo ter te entediado com tantos contextos e justificativas.
 
 Para exibir algo na tela (do console), normalmente **os comandos são simples e diretos**.
 
