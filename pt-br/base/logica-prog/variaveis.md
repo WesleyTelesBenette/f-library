@@ -172,11 +172,9 @@ print("Meu nome é: " + variavelNome) #Variável com texto
 //PHP
 echo $variavelNome;  //Variável sozinha
 
-$outraVariavel = "Meu nome é: {$variavelNome}"; //Variável com texto
-echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
+echo "Meu nome é: {$variavelNome}"; //Variável com texto
 
-$outraVariavel = "Meu nome é: " . $variavelNome; //Variável com texto
-echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
+echo "Meu nome é: " . $variavelNome; //Variável com texto
 ```
 Obs. Existem várias formas diferente de fazer a mesma coisa, como exibir uma "Variável com texto", e muitas dessas coisas na programação você decide qual usar por gosto pessoal, ou por qual fica melhor para ler e entender.
 > Se eu não escolher nenhuma forma, a dificuldade é menor 🤯 ksksksk
