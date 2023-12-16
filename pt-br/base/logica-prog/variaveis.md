@@ -134,9 +134,9 @@ Obs. Ok, vamos para mais uma análise:
 Voltando para o tema ***console***, você também pode usar variáveis nas suas "escritas na tela". Dessa forma:
 ```c
 //C
-printf(variavelNome); //Variável sozinha
+printf("%s", variavelNome); //Variável sozinha
 
-printf("Meu nome é: " + variavelNome); //Variável com texto
+printf("Meu nome é: %s", variavelNome); //Variável com texto
 ```
 ```csharp
 //C#
@@ -178,5 +178,5 @@ echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
 $outraVariavel = "Meu nome é: " . $variavelNome; //Variável com texto
 echo outraVariavel; //Sim, teve que ser armazenado numa outra variável antes...
 ```
-Obs. Existem várias formas diferente de fazer a mesma coisa, como exibir uma "Variável com texto", e muitas dessas coisas na programação você decide qual usar por gosto pessoa, ou por qual fica melhor para ler e entender.
-
+Obs. Existem várias formas diferente de fazer a mesma coisa, como exibir uma "Variável com texto", e muitas dessas coisas na programação você decide qual usar por gosto pessoal, ou por qual fica melhor para ler e entender.
+> Se eu não escolher nenhuma forma, a dificuldade é menor 🤯 ksksksk
