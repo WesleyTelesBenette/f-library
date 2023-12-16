@@ -34,7 +34,7 @@ Console.WriteLine("Bem-vindo ao F-Library!");
 System.out.println("Bem-vindo ao F-Library!");
 ```
 ```js
-//Javascript
+//JavaScript
 console.log("Bem-vindo ao F-Library!")
 ```
 ```python
