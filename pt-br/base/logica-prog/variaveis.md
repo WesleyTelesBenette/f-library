@@ -37,7 +37,7 @@ Tipos mais comuns 🗒️:
 Pode aparentar ser meio confuso e difícil, mas na prática é mais simples do que parece.
 
 ### Exemplo
-Uma variável do tipo **texto**, com nome `minhaVariavelF`, onde seu conteúdo é "F Library é a melhor!":
+Uma variável do tipo **texto**, com nome `minhaVariavelF`, onde seu conteúdo é `"F Library é a melhor!"`:
 ```c
 //C
 char minhaVariavelF[] = "F Library é a melhor!";
@@ -87,6 +87,46 @@ As principais operações mais comuns:
 | `/` | Divisão | `varNum = 4 / 7` |
 | `%` | Resto de Divisão | `varNum = 4 % 7` |
 > Ok, acho que isso eu já consigo 😎👍, porque não é possível que eu seja tão burro também 🥲.
+
+Vamos para um exemplo mais prático.
+
+### Exemplo
+Uma variável chamada `num` que tem o valor `8`, somada com `36` e **depois** dividida por `11`. Onde todo esse cálculo é armazenado na variável `somaDeNum`.
+
+```c
+//C
+int num = 8;
+int somaDeNum = (8 + 36) / 11;
+```
+```csharp
+//C#
+int num = 8;
+int somaDeNum = (8 + 36) / 11;
+```
+```java
+//Java
+int num = 8;
+int somaDeNum = (8 + 36) / 11;
+```
+```js
+//Javascript
+let num = 8
+let somaDeNum = (8 + 36) / 11
+```
+```python
+#Python
+num = 8
+somaDeNum = (8 + 36) / 11
+```
+```php
+//PHP
+$num = 8;
+$somaDeNum = (8 + 36) / 11;
+```
+Obs. Ok, vamos para mais uma análise:
+- Em todas as linguagens, realizar um cálculo é uma ação práticamente idêntica.
+- Você não "rodou" esses código, porém se você executasse eles, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
+> Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥
 
 <!--
 ### Título
