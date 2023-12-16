@@ -11,7 +11,7 @@ Num resumo rápido, é uma estrutura nomeada, que faz referência a um espaço n
 Você pode enxergar variáveis como "caixas", que precisam de:
 - Um **nome**: para conseguirmos indentificar que caixa é essa.
 - Um **tipo**: para sabermos que tipo de coisa podemos encontrar dentro dessa caixa.
-- Um **conteúdo**: essa caixa é um local que pode ser guardado coisas, e ela sempre tem um centeúdo, mesmo que ele seja "nada".
+- Um **conteúdo**: essa caixa é um local que pode ser guardado coisas, e ela sempre tem um conteúdo, mesmo que ele seja "nada".
 
 ### Regras para criar uma variável
 Antes de efetivamente criar uma variável, precisamos entender duas coisas principais: **nomenclatura** e **tipos**.
