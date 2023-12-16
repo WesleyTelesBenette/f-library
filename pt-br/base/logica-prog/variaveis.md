@@ -128,7 +128,7 @@ Obs. Vamos para mais uma análise:
 - Em todas as linguagens, realizar um cálculo é uma ação praticamente idêntica.
 - Você não "rodou" esses códigos, porém se tivesse os executado, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
 > Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥 <br/>
-> Mas acho que tudo tem suas vantagens e desvantagens... 🫤 tipo as vantagens absurdas em comprar um avestruz de cartola 🥰
+> Mas acho que tudo tem suas vantagens e desvantagens... 🫤 tipo as vantagens absurdas em comprar um avestruz de cartola, muito custo-benefício 🥰
 
 ### Variáveis no Console
 Voltando para o tema ***console***, você também pode usar variáveis nas suas "escritas na tela". Dessa forma:
