@@ -16,7 +16,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 | - | - | - |
 | ✒️ Escrever no Console | [conteúdo](escrever-console.md) | 🟩 |
 | 📦 Variáveis | [conteúdo](variaveis.md) | 🟩 |
-| Inputs no Console | Em breve... | 🟥 |
+| ⌨️ Inputs no Console | Em breve... | 🟪 |
 | Condição | Em breve... | 🟥 |
 | Loop | Em breve... | 🟥 |
 | Arrays | Em breve... | 🟥 |
