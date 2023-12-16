@@ -67,6 +67,10 @@ Obs. Se você prestou atenção nos exemplos, pode ter percebido alguns detalhes
 - A linguagem `C` não tem o tipo `string` (porém uma gambiarra da linguagem resolve).
 - As linguagem `C`, `C#` e `Java` são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
 - As linguagem `Javascript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
+- E que algumas linguagens como `Javascript` e `Python`, você precisa usar ponto e vírgula no final da linha.
+> 😝 - Ksksksk sou preguiçoso, só vou usar linguagem dinâmica apartir de agora. <br/>
+> `JS` - Aé? E esse seu `int` aí? To achando que é uma `string`, vou trocar o tipo ksksksks <br/>
+> 😢 - Calma aí, amigão. Também não é assim...
 
 ### Operações Aritméticas
 Com variáveis numéricas como: `int`, `float` e `double`, é possível realizar cálculos, coisa que é muito comum dentro de um programa.
@@ -82,6 +86,7 @@ As principais operações mais comuns:
 | `*` | Multiplicação | `varNum = 4 * 7` |
 | `/` | Divisão | `varNum = 4 / 7` |
 | `%` | Resto de Divisão | `varNum = 4 % 7` |
+> Ok, acho que isso eu já consigo 😎👍, porque não é possível que eu seja tão burro também 🥲.
 
 <!--
 ### Título
