@@ -5,7 +5,7 @@ Esse é um dos conceitos mais importantes de toda programação, você vai traba
 
 ## 🪄 Explicação
 ### O que seria uma variável?
-Num resumo rápido, é uma estrutura nomeada, que faz referência a um espaço na memória RAM, onde se pode armazenar dados, acessado e manipulando em diferentes pontos do seu programa.
+Num resumo rápido, é uma estrutura nomeada, que faz referência a um espaço na memória RAM, onde se pode armazenar dados, acessando e manipulando em diferentes pontos do seu programa.
 > Ok, nem eu mais entendo o que eu falo 😒
 
 Você pode enxergar variáveis como "caixas", que precisam de:
