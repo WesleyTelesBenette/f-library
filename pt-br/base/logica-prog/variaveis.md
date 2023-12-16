@@ -71,7 +71,7 @@ Obs. Se você prestou atenção nos exemplos, pode ter percebido alguns detalhes
 ### Operações Aritméticas
 Com variáveis numéricas como: `int`, `float` e `double`, é possível realizar cálculos, coisa que é muito comum dentro de um programa.
 > 😢 - Vish, não sei fazer conta nenhum... me lasquei. <br/>
-> 🖥️ - Relaxa, a Mãe aqui faz as conta pra você, se me mandar as fórmulas que eu preciso calcular, beleza? 👍. <br/>
+> 🖥️ - Relaxa, a Mãe aqui faz as conta pra você, só me mandar as fórmulas que eu preciso calcular, beleza? 👍. <br/>
 > 🤩 - Obrigado, Sra. linguagem de programação rodando no meu computador!
 
 O 
