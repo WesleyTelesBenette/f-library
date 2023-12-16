@@ -27,4 +27,4 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 ## 🧐 Revisão
 - [Tiago A. de João](https://github.com/andrade-tiago)
 - [Wesley T. Benette](https://github.com/WesleyTelesBenette).
-<!-- - Fernanda da C. Silva -->
+- **Fernanda da C. Silva** (minha futura esposa 💙)
