@@ -67,7 +67,7 @@ Obs. Se você prestou atenção nos exemplos, pode ter percebido alguns detalhes
 - A linguagens `C` não tem o tipo `string` (porém uma gambiarra da linguagem resolve).
 - As linguagens `C`, `C#` e `Java` são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
 - As linguagens `Javascript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
-- E que algumas linguagens como `Javascript` e `Python`, você precisa usar ponto e vírgula no final da linha.
+- E que algumas linguagens como `Javascript` e `Python`, você não precisa usar ponto e vírgula no final da linha.
 > 😝 - Ksksksk sou preguiçoso, só vou usar linguagem dinâmica a partir de agora. <br/>
 > `JS` - Aé? E esse seu `int` aí? To achando que é uma `string`, vou trocar o tipo dele rapidão aqui ksksksks <br/>
 > 😢 - Calma aí, amigão. Também não é assim...
