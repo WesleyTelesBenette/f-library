@@ -51,7 +51,7 @@ string minhaVariavelF = "F Library é a melhor!";
 String minhaVariavelF = "F Library é a melhor!";
 ```
 ```js
-//Javascript
+//JavaScript
 let minhaVariavelF = "F Library é a melhor!"
 ```
 ```python
@@ -66,8 +66,8 @@ $minhaVariavelF = "F Library é a melhor!";
 Obs. Se você prestou atenção nos exemplos, pode ter percebido alguns detalhes:
 - A linguagens `C` não tem o tipo `string` (porém uma gambiarra da linguagem resolve).
 - As linguagens `C`, `C#` e `Java` são **estaticamente tipadas** (para declarar uma variáveis precisa definir o tipo).
-- As linguagens `Javascript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
-- E que algumas linguagens como `Javascript` e `Python`, você não precisa usar ponto e vírgula no final da linha.
+- As linguagens `JavaScript`, `Python` e `PHP` são **dinamicamente tipadas** (a linguagem reconhece sozinha qual o tipo da variável).
+- E que algumas linguagens como `JavaScript` e `Python`, você não precisa usar ponto e vírgula no final da linha.
 > 😝 - Ksksksk sou preguiçoso, só vou usar linguagem dinâmica a partir de agora. <br/>
 > `JS` - Aé? E esse seu `int` aí? To achando que é uma `string`, vou trocar o tipo dele rapidão aqui ksksksks <br/>
 > 😢 - Calma aí, amigão. Também não é assim...
@@ -109,7 +109,7 @@ int num = 8;
 int somaDeNum = (8 + 36) / 11;
 ```
 ```js
-//Javascript
+//JavaScript
 let num = 8
 let somaDeNum = (8 + 36) / 11
 ```
@@ -153,7 +153,7 @@ System.out.println(variavelNome);  //Variável sozinha
 System.out.println("Meu nome é: " + variavelNome); //Variável com texto
 ```
 ```js
-//Javascript
+//JavaScript
 console.log(variavelNome)  //Variável sozinha
 
 console.log(`Meu nome é: ${variavelNome}`) //Variável com texto
