@@ -16,7 +16,7 @@ O que vai deixar todas as páginas de documentação e exemplos, **bem mais gen�
 
 ## 🪄 Explicação
 ###  Escrever no Console
-No contexto de um ***console***, "escrever na tela" é basicamente exibir um texto de sua esolha na "tela" de um console, mas não precisa se preocupar, pois normalmente **os comandos são simples e diretos**.
+No contexto de um ***console***, "escrever na tela" é basicamente exibir um texto de sua escolha na "tela" de um console, mas não precisa se preocupar, pois normalmente **os comandos são simples e diretos**.
 > Ata, quero só ver! Programação é a coisa mais difícil da face da terra 😖
 
 Tudo bem, vamos logo para o código, já devo ter te entediado com tantos contextos e justificativas.
