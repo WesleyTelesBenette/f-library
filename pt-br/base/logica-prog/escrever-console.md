@@ -1,5 +1,5 @@
 # ✒️ Escrever na tela (console)
-## Introdução
+## ✨ Introdução
 Quando se trata de programação, normalmente não é interessante criar um amontado de código se você **não consegue ver** o que está acontecendo e nem **iteragir com nada**.
 > Óbvio que não é o que você quer 🫵😠... p-pelo menos é o que eu acho 😥.
 
@@ -14,7 +14,7 @@ Logicamente indica que você poderia sim "escrever na tela" usando a tecnologia 
 O que vai deixar todas as páginas de documetação e exemplos, **bem mais genéricas** e simples de serem entendidas.
 > Ou seja, vai ser fácil a ponto de qualquer Neandertal 🦖 ~~igual você~~ entender.
 
-## Explicação
+## 🪄 Explicação
 Tudo bem, vamo logo para o código, já devo ter te entediado com tantos contextos e justificativas.
 
 Para exibir algo na tela (do console), normalmente **os comandos são simples e diretos**.
