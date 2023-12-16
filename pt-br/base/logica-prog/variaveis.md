@@ -124,6 +124,7 @@ $num = 8;
 $somaDeNum = (8 + 36) / 11;
 ```
 Obs. Ok, vamos para mais uma análise:
+- Você pode criar expressões matemáticas (basicamente fórmulas) misturando várias operações e difinindo prioridade com parênteses.
 - Em todas as linguagens, realizar um cálculo é uma ação práticamente idêntica.
 - Você não "rodou" esses código, porém se você executasse eles, veria que linguagens estáticas como `C`, `C#` e `Java` deram o resultado `4`, enquanto nas demais linguagens dinâmicas o resultado é próximo de `4.3636`, e se você quiser um resultado inteiro vai ter que usar métodos ou lógicas específicas da linguagem.
 > Droga! Não sei se as linguagens dinâmicas me ajudam ou me atrapalham 😥
