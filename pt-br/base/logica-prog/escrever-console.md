@@ -35,7 +35,7 @@ System.out.println("Bem-vindo ao F-Library!");
 ```
 ```js
 //Javascript
-console.log("Bem-vindo ao F-Library!");
+console.log("Bem-vindo ao F-Library!")
 ```
 ```python
 #Python
