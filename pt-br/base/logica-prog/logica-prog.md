@@ -17,10 +17,10 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 | ✒️ Escrever no Console | [conteúdo](escrever-console.md) | 🟩 |
 | 📦 Variáveis | [conteúdo](variaveis.md) | 🟩 |
 | ⌨️ Inputs no Console | [conteúdo](ler-console.md) | 🟦 |
-| Condição | Em breve... | 🟥 |
-| Loop | Em breve... | 🟥 |
-| Arrays | Em breve... | 🟥 |
-| Função e Método | Em breve... | 🟥 |
+| 🤔 Condição | Em breve... | 🟥 |
+| ♾️ Loop | Em breve... | 🟥 |
+| 🗄️ Array e Matriz | Em breve... | 🟥 |
+| 📤 Função e Método | Em breve... | 🟥 |
 
 ## 🪶 Autor
 - [Wesley T. Benette](https://github.com/WesleyTelesBenette).
