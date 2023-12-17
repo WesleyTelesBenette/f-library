@@ -54,6 +54,15 @@ print(f"Bem-vindo(a), {nome}!")
 echo "Digite seu nome: ";
 $nome = fgets(STDIN); //Leitura de entrada
 $nome = rtrim($nome, "\r\n"); //Remove uma quebra no final
-echo "Bem-vindo(a), ".$nome."!";
+echo "Bem-vindo(a), {$nome}!";
 ```
+Obs. Dessa vez você deve ter percebido que
+- Cada linguagem tem **sua própria maneira de ler uma entrada de texto**, precisando até mesmo de coisas mais específicas da linguagem.
+- Mesmo com toda essa diferença, elas ainda conseguem ser parecidas, tendo:
+  - Uma **função específica para ler** uma linha de texto.
+  - Precisam armazenar o resultado numa **variável de texto**.
+> Vish... não tem jeito... 😶 <br/>
+> Vou precisar virar Uber 🥲
 
+Enquanto estiver estudando lógica de programação ou até mesmo POO, te recomendaria decorar a forma que a sua linguagem lê uma linha de texto, mas não se preocupe, quando começar a programar profissionalmente, praticamente nunca vai precisar usar esse tipo de recurso (o console no geral), no máximo raramente escrever na tela.
+> Pelo menos alguma notícia boa na minha vida sofrida, completamente desprovida de sorte e sossego 🤕
