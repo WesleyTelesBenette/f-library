@@ -240,4 +240,9 @@ Obs. Mais uma sessão de "coisas que eu esperava que você percebesse, mas prova
 - As linguagens `C` e `Java` não tem uma forma nativa de realizar comparações entre `strings`.
 - Os operadores `E` e `OU` em `Python` são escritos em inglês, não são símbolos, além da linguagem não ter chaves `{ }` nos seus `if` e `else`.
 - Contudo, ainda sim você consegue perceber uma certa semelhança em como as linguagens estruturam suas condições.
-> ...
+> Ok! Acho que consegui entender 🫡. <br/>
+> Então: <br/><br/>
+> if (euVivo == true) { <br/>
+> <span>&nbsp;&nbsp;&nbsp;&nbsp;printf("Eu sofro para aprender programação");</span> <br/>
+> } <br/><br/>
+> Certo? 🥹
