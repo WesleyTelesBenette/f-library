@@ -67,7 +67,11 @@ Obs. Analisando esses trechos de código, você pode perceber que:
 - A palavra-chave `if` significa "se", onde caso a condição (na mesma linha dele) for verdadeira, tudo que estiver entre suas chaves `{ }` é executado.
 - A palavra-chave `else` significa "se não", onde caso a condição do `if` anterior a ele não for verdadeira, tudo que estiver entre suas chaves `{ }` é executado.
 - Não no caso desse exemplo, mas em outros contextos o `else` é opcional.
-> ...
+> Deixa eu ver se eu entendi 🤔 <br/><br/>
+> if (meuSaldoNoBanco < 0) { <br/>
+> <span>&nbsp;&nbsp;&nbsp;&nbsp;Console.WriteLine("Estou pobre e terei que vender a minha casa para pagar minhas dívidas."); </span> <br/>
+> } <br/><br/>
+> É isso? Acho que programação está me traumatizando 🥲
 
 ### Operadores Lógicos
 Os operadores lógicos são as formas com que você pode montar suas condições, seja para realizar uma verificação de condição específica ou combinar várias condições.
