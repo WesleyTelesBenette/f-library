@@ -236,8 +236,5 @@ if (($email == $emailCerto) && ($idade >= $idadeMinima)) {
     echo "Usuário inválido!";
 }
 ```
-
-
-
-
-
+Obs. 
+> ...
