@@ -65,13 +65,20 @@ if ($idade < 18) {
 ```
 Obs. Analisando esses trechos de código, você pode perceber que:
 - A palavra-chave `if` significa "se", onde caso a condição (na mesma linha dele) for verdadeira, tudo que estiver entre suas chaves `{ }` é executado.
-- A palavra-chave `else` significa "se não", onde caso a condição do `if` anteriror a ele não for verdadeira, tudo que estiver entre suas chaves `{ }` é executado.
+- A palavra-chave `else` significa "se não", onde caso a condição do `if` anterior a ele não for verdadeira, tudo que estiver entre suas chaves `{ }` é executado.
 - Não no caso desse exemplo, mas em outros contextos o `else` é opcional.
 
 ### Operadores Lógicos
-dfvfg
+Os operadores lógicos são as formas com que você pode montar suas condições, seja para realizar uma verificação de condição específica ou combinar várias condições.
 | Operador | Descrição | Exemplo |
 | - | - | - |
-| | | |
-| | | |
+| == | Igual | valor1 == valor2 |
+| != | Diferente | valor1 != valor2 |
+| > | Maior | valor1 > valor2 |
+| >= | Maior ou igual | valor1 >= valor2 |
+| < | Menor | valor1 < valor2 |
+| <= | Menor ou igual | valor1 <= valor2 |
+| && | E. As duas condições precisam ser verdadeiras | (condição) && (condição) |
+| \|\| | Ou. Umas das duas condições precisam ser verdadeiras | (condição) \|\| (condição) |
+
 
