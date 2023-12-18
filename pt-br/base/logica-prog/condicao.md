@@ -236,5 +236,7 @@ if (($email == $emailCerto) && ($idade >= $idadeMinima)) {
     echo "Usuário inválido!";
 }
 ```
-Obs. 
+Obs. Mais uma sessão de "coisas que eu esperava que você percebesse, mas provavelmente você nem olhou":
+- As linguagens `C` e `Java` não tem uma forma nativa de realizar comparações entre `strings`.
+- Os operadores `E` e `OU` em Python são escritos em inglês, não são símbolos.
 > ...
