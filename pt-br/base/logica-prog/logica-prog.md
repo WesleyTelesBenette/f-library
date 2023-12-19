@@ -10,7 +10,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 ## 📑 Informações Técnicas
 - 📖 Tempo de leitura estimado: **?** min.
 - 📜 A documentação **utiliza várias linguagens de programação** para você entender, de uma vez por todas, que independente da linguagem a lógica se mantem a mesma.
-- 🪶 Teste! Nos exemplos utilizamos alguns linguagens como: `C`, `C#`, `Java`, `Javascript`, `Python` e `PHP`. Te recomendaria escolher uma linguagem dessas e ir acompanhando a documentação. E caso não tenha um computador no momento, ou não saiba ainda baixar uma IDE ou a linguagem em si, você pode programar online por enquanto:
+- 🪶 Teste! Nos exemplos utilizamos algumas linguagens como: `C`, `C#`, `Java`, `Javascript`, `Python` e `PHP`. Te recomendaria escolher uma linguagem dessas e ir acompanhando a documentação. E caso não tenha um computador no momento, ou não saiba ainda baixar uma IDE ou a linguagem em si, você pode programar online por enquanto:
   - [`Linguagem C`](https://www.programiz.com/c-programming/online-compiler/).
   - [`Linguagem C#`](https://www.programiz.com/csharp-programming/online-compiler/).
   - [`Linguagem Java`](https://www.programiz.com/java-programming/online-compiler/).
