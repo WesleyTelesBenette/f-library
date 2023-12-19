@@ -18,6 +18,7 @@ Se a `idade` do usuário for menor que `18`, então exibir `"Você é menor de i
 
 ```c
 //C
+int idade = 5;
 if (idade < 18) {
     printf("Você é menor de idade!");
 } else {
@@ -26,6 +27,7 @@ if (idade < 18) {
 ```
 ```csharp
 //C#
+int idade = 65;
 if (idade < 18) {
     Console.WriteLine("Você é menor de idade!");
 } else {
@@ -34,6 +36,7 @@ if (idade < 18) {
 ```
 ```java
 //Java
+int idade = 16;
 if (idade < 18) {
     System.out.println("Você é menor de idade!");
 } else {
@@ -42,6 +45,7 @@ if (idade < 18) {
 ```
 ```js
 //JavaScript
+let idade = 21
 if (idade < 18) {
    console.log("Você é menor de idade!")
 } else {
@@ -50,6 +54,7 @@ if (idade < 18) {
 ```
 ```python
 #Python
+idade = 80
 if (idade < 18):
    print("Você é menor de idade!")
 else:
@@ -57,6 +62,7 @@ else:
 ```
 ```php
 //PHP
+$idade = 11;
 if ($idade < 18) {
    echo "Você é menor de idade!";
 } else {
@@ -242,7 +248,9 @@ Obs. Mais uma sessão de "coisas que eu esperava que você percebesse, mas prova
 - Contudo, ainda sim você consegue perceber uma certa semelhança em como as linguagens estruturam suas condições.
 > Ok! Acho que consegui entender 🫡. <br/>
 > Então: <br/><br/>
+> bool euVivo = true;
+> 
 > if (euVivo == true) { <br/>
-> <span>&nbsp;&nbsp;&nbsp;&nbsp;printf("Eu sofro para aprender programação");</span> <br/>
+> <span>&nbsp;&nbsp;&nbsp;&nbsp;Console.WriteLine("Eu sofro para aprender programação");</span> <br/>
 > } <br/><br/>
 > Certo? 🥹
