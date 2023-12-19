@@ -56,6 +56,68 @@ double varDouble = 55616516.5587;
 decimal varDecimal = 2.214516516516516516556;
 ```
 
+### Condição
+```csharp
+if (varQualquer == 8)
+{
+    //Código...
+}
+else
+{
+    //Código...
+}
+```
+
+### Operadores Lógicos
+| Operador | Descrição |
+| - | - |
+| == | Igual |
+| != | Diferente |
+| > | Maior |
+| < | Menor |
+| >= | Maior ou igual |
+| <= | Menor ou igual |
+| && | E |
+| \|\| | OU |
+
+### Múltiplas Condições de Igualdade
+```csharp
+switch (var)
+{
+    case(valor1):
+        //Código...
+        break;
+
+    case(valor2):
+        //Código...
+        break;
+
+    default:
+        //Código...
+}
+```
+
+### Laços de Repetição
+```csharp
+while (condição)
+{
+    //Código...
+}
+
+
+do
+{
+    //Código...
+}
+while (condição);
+
+
+for (declaração; condição; incremento)
+{
+    //Código...
+}
+
+```
 
 
 ## 🪄 Exemplo Prático
