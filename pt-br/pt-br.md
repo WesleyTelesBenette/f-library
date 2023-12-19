@@ -19,11 +19,11 @@ Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida
   - 🟩 - Concluído.
 
 ## ⬆️ Atualizações e Previsões
-| Data | Recursos | Versão |
-| - | - | - |
-| 14/12/2023 | Criação do repositório | v0.1 |
-| 19/12/2023 | Documentação de "Lógica de Programação" | v0.2 |
-| 22/12/2023 | ... | v0.3 |
+| Recursos | Versão |
+| - | - |
+| Criação do repositório | v0.1 (atual) |
+| Documentação de "Lógica de Programação" | v0.2 |
+| | ... | v0.3 |
 
 ## 🔩 Base
 Assuntos básicos (ao meu ver) que não cabem em outras categorias estabelecidas.
