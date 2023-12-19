@@ -16,5 +16,4 @@ Uma linguagem estática e dinâmica, de tipagem forte.
 - [Wesley T. Benette](https://github.com/WesleyTelesBenette).
 
 ## 🧐 Revisão
-
-
+- [Wesley T. Benette](https://github.com/WesleyTelesBenette).
