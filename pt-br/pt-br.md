@@ -3,7 +3,8 @@
 O local detentor de todo meu conhecimento sobre programação e tecnologia.
 
 ## 🎯 Objetivo
-Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida e simplificada, mantendo uma comunicação mais despojada e fácil de entender.
+Documentar meus conhecimentos sobre programação, com foco em ter material para consultar, juntamente de explicações a minha maneira.
+<!-- Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida e simplificada, mantendo uma comunicação mais despojada e fácil de entender. -->
 
 ## 📑 Informações Gerais
 - **Atualizada constantemente**.
