@@ -58,7 +58,7 @@ decimal varDecimal = 2.214516516516516516556;
 
 ### Condição
 ```csharp
-//If-Else
+//if-else
 if (varQualquer == 8) //Se
 { 
     //Código...
@@ -83,7 +83,7 @@ else //Se não
 
 ### Múltiplas Condições de Igualdade
 ```csharp
-//Switch-case
+//switch-case
 switch (var)
 {
     case(valor1): //Case -> var == valor1
@@ -123,6 +123,50 @@ for (declaração; condição; incremento)
 }
 ```
 
+### Array
+```csharp
+//Array
+string[] listaDeNomes = new string[3];
+listaDeNomes[0] = "Fernanda";
+listaDeNomes[1] = "Wesley";
+listaDeNomes[2] = "Tiago";
+
+//Array atribuição na declaração
+string[] diasSemana = new string[7] {
+    "Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"
+};
+```
+
+### Matriz
+```csharp
+//Matriz
+string[,] listaPessoas = new string[2,2];
+
+listaPessoas[0,0] = "Fernanda";
+listaPessoas[0,1] = "Design";
+
+listaPessoas[1,0] = "Wesley";
+listaPessoas[1,1] = "Dev Backend";
+
+listaPessoas[2,0] = "Tiago";
+listaPessoas[2,1] = "Dev Fullstack";
+```
+
+### Método e Função
+```csharp
+//Método
+void nomeMetodo(parâmetros)
+{
+    //Código...
+}
+
+//Função
+string nomeFuncao(parâmetros)
+{
+    //Código...
+    return "Retorno";
+}
+```
 
 ## 🪄 Exemplo Prático
  
