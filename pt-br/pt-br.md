@@ -33,7 +33,7 @@ Um breve guia de como utilizar conceitos de Lógica de Programação e POO, em l
 E em alguns casos: dicas, estruturas, algoritmos prontos, e talvez até técnicas sobre performance e desempenho.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
-| C# | Em breve... | 🟥 |
+| C# | [conteúdo](linguagens/c-sharp/c-sharp.md) | 🟪 |
 | Javascript | Em breve... | 🟥 |
 | Php | Em breve... | 🟥 |
 
