@@ -4,11 +4,12 @@ O local detentor de todo meu conhecimento sobre programação e tecnologia.
 
 ## 🎯 Objetivo
 Documentar meus conhecimentos sobre programação, com foco em ter material para consultar, juntamente de explicações a minha maneira.
+
+Não espere explicações complexas e detalhadas, no geral são resumos frios e objetivos, embora em alguns casos possa ter explicações mais amigáveis.
 <!-- Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida e simplificada, mantendo uma comunicação mais despojada e fácil de entender. -->
 
 ## 📑 Informações Gerais
 - **Atualizada constantemente**.
-- Conteúdos disponíveis atualmente: **0**.
 - Estruturada em **Markdown**.
 - Documentação cuidadosamente montada e **testada**.
 - Conteúdos divididos por categorias.
@@ -19,16 +20,8 @@ Documentar meus conhecimentos sobre programação, com foco em ter material para
   - 🟦 - Falta um pouco de refinamento.
   - 🟩 - Concluído.
 
-## ⬆️ Atualizações e Previsões
-| Recursos | Versão |
-| - | - |
-| Criação do repositório | v0.1 (atual) |
-| Documentação de "Lógica de Programação" | v0.2 |
-| | ... | v0.3 |
-
 ## 🔩 Base
 Assuntos básicos (ao meu ver) que não cabem em outras categorias estabelecidas.
-
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | Lógica de Programação | [conteúdo](base/logica-prog/logica-prog.md) | 🟪 |
@@ -37,8 +30,7 @@ Assuntos básicos (ao meu ver) que não cabem em outras categorias estabelecidas
 
 ## 🛠️ Linguagens
 Um breve guia de como utilizar conceitos de Lógica de Programação e POO, em linguagens específicas.
-E em algunas casos: dicas, estruturas, algoritmos prontos, e talvez até técnicas sobre performance e desempenho.
-
+E em alguns casos: dicas, estruturas, algoritmos prontos, e talvez até técnicas sobre performance e desempenho.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | C# | Em breve... | 🟥 |
@@ -46,8 +38,7 @@ E em algunas casos: dicas, estruturas, algoritmos prontos, e talvez até técnic
 | Php | Em breve... | 🟥 |
 
 ## 🧰 Frameworks
-Algumas dicas de utilização e configuraçã
-
+Algumas dicas de utilização e configuração de frameworks, além de possíveis arquiteturas.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | ASP\.NET | Em breve... | 🟥 |
@@ -55,13 +46,14 @@ Algumas dicas de utilização e configuraçã
 | Laravel | Em breve... | 🟥 |
 
 ## ⚙️ Ferramentas Gerais
+Ferramentas que auxiliam o desenvolvimento no geral.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | Git Bash | Em breve... | 🟥 |
 | Postman | Em breve... | 🟥 |
 
 ## 🗃️ Databases
-dh
+Peculiaridade acerca de configurações e manipulações de banco de dados.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | SQL | Em breve... | 🟥 |
@@ -69,9 +61,8 @@ dh
 | PostgreSQL | Em breve... | 🟥 |
 | Microsoft SQL Server | Em breve... | 🟥 |
 
-
 ## 📝 Projeto de Software
-dg
+Pradrões, arquiteturas e boas práticas.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | MVC | Em breve... | 🟥 |
