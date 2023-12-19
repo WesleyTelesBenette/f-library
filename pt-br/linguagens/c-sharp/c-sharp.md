@@ -6,7 +6,7 @@ Uma linguagem estática e dinâmica, de tipagem forte.
 
 | Nome | Conteúdo | 🔳
 | - | - | - |
-| Lógica de Programação | | 🟥 |
+| Lógica de Programação | [conteúdo](logica-csharp.md) | 🟪 |
 | POO | | 🟥 |
 
 
