@@ -58,12 +58,13 @@ decimal varDecimal = 2.214516516516516516556;
 
 ### Condição
 ```csharp
-if (varQualquer == 8)
-{
+//If-Else
+if (varQualquer == 8) //Se
+{ 
     //Código...
 }
-else
-{
+else //Se não
+{ 
     //Código...
 }
 ```
@@ -82,29 +83,32 @@ else
 
 ### Múltiplas Condições de Igualdade
 ```csharp
+//Switch-case
 switch (var)
 {
-    case(valor1):
+    case(valor1): //Case -> var == valor1
         //Código...
         break;
 
-    case(valor2):
+    case(valor2): //Case -> var == valor1
         //Código...
         break;
 
-    default:
+    default: //var != todos os cases
         //Código...
 }
 ```
 
 ### Laços de Repetição
 ```csharp
+//Loop simples
 while (condição)
 {
     //Código...
 }
 
 
+//Loop com primeira execução garantida
 do
 {
     //Código...
@@ -112,11 +116,11 @@ do
 while (condição);
 
 
+//Loop composto
 for (declaração; condição; incremento)
 {
     //Código...
 }
-
 ```
 
 
