@@ -24,7 +24,7 @@ Mas claro, nada te impede de aprender programação sem saber ela...
 | ✒️ Escrever no Console | [conteúdo](escrever-console.md) | 🟩 |
 | 📦 Variáveis | [conteúdo](variaveis.md) | 🟩 |
 | ⌨️ Inputs no Console | [conteúdo](ler-console.md) | 🟦 |
-| 🤔 Condição | [conteúdo](condicao.md) | 🟪 |
+| 🤔 Condição | [conteúdo](condicao.md) | 🟦 |
 | ♾️ Loop | Em breve... | 🟥 |
 | 🗄️ Array e Matriz | Em breve... | 🟥 |
 | 📤 Função e Método | Em breve... | 🟥 |
