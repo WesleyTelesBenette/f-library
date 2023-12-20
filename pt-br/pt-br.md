@@ -1,3 +1,4 @@
+<!--
 # F Library - v.0.1
 
 O local detentor de todo meu conhecimento sobre programação e tecnologia.
@@ -6,7 +7,6 @@ O local detentor de todo meu conhecimento sobre programação e tecnologia.
 Documentar meus conhecimentos sobre programação, com foco em ter material para consultar, juntamente de explicações a minha maneira.
 
 Não espere explicações complexas e detalhadas, no geral são resumos frios e objetivos, embora em alguns casos possa ter explicações mais amigáveis.
-<!-- Ajudar quem quer que seja, a aprender temas complexos de uma forma mais resumida e simplificada, mantendo uma comunicação mais despojada e fácil de entender. -->
 
 ## 📑 Informações Gerais
 - **Atualizada constantemente**.
