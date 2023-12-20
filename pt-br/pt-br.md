@@ -66,3 +66,5 @@ Pradrões, arquiteturas e boas práticas.
 | Nome | Conteúdo | 🔳 |
 | - | - | - |
 | MVC | Em breve... | 🟥 |
+| RESTful | Em breve... | 🟥 |
+| Microservices | Em breve... | 🟥 |
