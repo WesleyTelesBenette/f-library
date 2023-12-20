@@ -1,4 +1,3 @@
-<!--
 # F Library - v.0.1
 
 O local detentor de todo meu conhecimento sobre programação e tecnologia.
