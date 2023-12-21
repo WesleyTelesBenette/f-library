@@ -1,7 +1,7 @@
 # Microsserviços
 
 ## ✨ Visão Geral
-A arquitetura mais popular atualmente, se baseia em dividir as funcionalidades do sistema entre vários componentes completamente independentes, cada um tendo uma única responsabilidade e seu próprio banco de dados.
+A arquitetura mais popular atualmente, se baseia em dividir as funcionalidades do sistema entre vários serviços (componentes, APIs) completamente independentes, cada um tendo uma única responsabilidade e seu próprio banco de dados.
 
 ### Vantagens
 - O Software se torna altamente escalável, já que sempre podem ser adicionados novos componentes.
