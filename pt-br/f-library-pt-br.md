@@ -13,3 +13,9 @@ Padrões, arquiteturas e boas práticas.
 | Padrões de Arquitetura de Software | [conteúdo](projeto-de-software/padrao-arquitetura/padrao-arquitetura.md) |
 
 ## 🛠️ Programação
+Um resumo rápido de aplicação de lógica de programação, POO e algumas peculiaridades.
+| Nome | Conteúdo |
+| - | - |
+| C# | Em breve... |
+| Javascript | Em breve... |
+| PHP | Em breve... |
