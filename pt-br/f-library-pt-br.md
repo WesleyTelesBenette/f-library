@@ -11,6 +11,7 @@ Padrões, arquiteturas e boas práticas.
 | Arquiteturas de Software | [conteúdo](projeto-de-software/arquitetura/arquitetura.md) |
 | Ciclo de Vida | [conteúdo](projeto-de-software/ciclo-de-vida/ciclo-de-vida.md) |
 | Padrões de Arquitetura de Software | [conteúdo](projeto-de-software/padrao-arquitetura/padrao-arquitetura.md) |
+| UML | [conteúdo](projeto-de-software/uml/uml.md) |
 
 ## 🛠️ Programação
 Um resumo rápido de aplicação de lógica de programação, POO e algumas peculiaridades.
