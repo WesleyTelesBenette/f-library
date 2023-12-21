@@ -7,7 +7,7 @@ A arquitetura mais popular atualmente, se baseia em dividir as funcionalidades d
 - O Software se torna altamente escalável, já que sempre podem ser adicionados novos componentes.
 - A manutenção é muito mais fácil, tendo em vista que as funcionalidades estão explicitamente divididas.
 - O desenvolvimento pode ser realizado por várias equipes, já que cada componente é basicamente um sistema único e diferente dos outros.
-- A segurança com os dados aumenta, pois, cada banco de dados só pode ser acessado por uma única API e não manipulados diretamente.
+- A segurança é maior, pois cada microsserviço são isadolados uns dos outros, então ataques á segurança tendem a ser menos eficientes.
 
 ### Desvantagens
 - O nível de dependências é extremo, qualquer componente do sistema com defeito, pode deixar várias partes do software sem funcionamento, mesmo que não quebre o programa.
