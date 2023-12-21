@@ -8,6 +8,8 @@ Ter um local para realizar consultas rápidas, com um conteúdo extremamente obj
 Padrões, arquiteturas e boas práticas.
 | Nome | Conteúdo |
 | - | - |
-| Arquiteturas de Software | [conteúdo]() |
-| Ciclo de Vida | [conteúdo]() |
-| Padrões de Arquitetura de Software | [conteúdo]() |
+| Arquiteturas de Software | [conteúdo](projeto-de-software/arquitetura/arquitetura.md) |
+| Ciclo de Vida | Em breve... |
+| Padrões de Arquitetura de Software | [conteúdo](projeto-de-software/padrao-arquitetura/padrao-arquitetura.md) |
+
+## 🛠️ Programação
