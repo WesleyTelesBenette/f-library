@@ -22,7 +22,7 @@ Os microsserviços são bem independentes, embora possam sim utilizar outros com
 Para um melhor entendimento, vamos exemplificar a arquitetura.
 
 ## 🪄 Exemplo Prático
-A arquitetura de uma aplicação de sistema de compras (similar à Shopee ou Amazon), que precisa de:
+A arquitetura de um App de sistema de compras (similar à Shopee ou Amazon), que precisa de:
 - Catálogo de Produtos.
 - Carrinho de Compras.
 - Pagamento.
