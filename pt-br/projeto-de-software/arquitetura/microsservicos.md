@@ -27,4 +27,10 @@ A arquitetura de um App de sistema de compras (similar à Shopee ou Amazon), que
 - Carrinho de Compras.
 - Pagamento.
 - Lista de Favoritos.
+
 <img src="exemplo-microsservicos.png" width="600" />
+
+
+> [!IMPORTANT]
+> É um exemplo simples e genérico, não leve tudo ao "pé da letra". <br/>
+> Não precisa ter tudo que usei, ou pode ter bem mais do que isso.
