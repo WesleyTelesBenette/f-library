@@ -15,9 +15,9 @@ A arquitetura mais comum e famosa do desenvolvimento de software, que se baseia 
 ### Arquitetura
 <img src="monolito.png" width="600" />
 
-- 🟣 Cliente: Usuário que vai requisitar recursos da aplicação.
-- 🔵 Aplicação: Sistema completo com todas as funcionalidades.
-- 🟢 Banco de Dados: Um banco de dados com informações salvas pela aplicação.
+- 🟣 **Cliente**: Usuário que vai requisitar recursos da aplicação.
+- 🔵 **Aplicação**: Sistema completo com todas as funcionalidades.
+- 🟢 **Banco de Dados**: Um banco de dados com informações salvas pela aplicação.
 
 É claro que você pode utilizar outros serviços e APIs externas, ou até mesmo vários bancos de dados, desde que tudo se concentre na aplicação única, onde somente ela deve fornecer ao cliente todas as funcionalidades, acesso a dados e camadas de apresentação.
 
