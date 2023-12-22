@@ -10,6 +10,7 @@ Padrões, arquiteturas e boas práticas.
 | - | - |
 | ✨ **Guia de Projeto de Software** | [conteúdo](projeto-de-software/guia.md) |
 | Arquiteturas de Software | [conteúdo](projeto-de-software/arquitetura/arquitetura.md) |
+| Boas Práticas | [conteúdo](projeto-de-software/boas-praticas/boas-praticas.md) |
 | Ciclo de Vida | [conteúdo](projeto-de-software/ciclo-de-vida/ciclo-de-vida.md) |
 | Padrões de Arquitetura de Software | [conteúdo](projeto-de-software/padrao-arquitetura/padrao-arquitetura.md) |
 | UML | [conteúdo](projeto-de-software/uml/uml.md) |
