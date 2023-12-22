@@ -17,10 +17,10 @@ A arquitetura mais popular atualmente, se baseia em dividir as funcionalidades d
 ### Arquitetura
 <img src="microsservicos.png" width="600" />
 
-- 🟣 Cliente: Usuário que vai requisitar recursos da aplicação.
-- 🟠 API Gateway: Vai permitir uma entrada comum de acesso para todos os clientes, inclusive para as próprias interações entre APIs.
-- 🔵 API: Sistema responsável por uma única funcionalidade.
-- 🟢 Banco de Dados: Um banco de dados que possui acesso por um única API.
+- 🟣 **Cliente**: Usuário que vai requisitar recursos da aplicação.
+- 🟠 **API Gateway**: Vai permitir uma entrada comum de acesso para todos os clientes, inclusive para as próprias interações entre APIs.
+- 🔵 **API**: Sistema responsável por uma única funcionalidade.
+- 🟢 **Banco de Dados**: Um banco de dados que possui acesso por um única API.
 
 Os microsserviços são bem independentes, embora possam sim utilizar outros componentes para ações específicas, que podem ser acessados pelo Gateway (por questões de segurança).
 
