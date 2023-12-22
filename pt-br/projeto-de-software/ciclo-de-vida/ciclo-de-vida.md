@@ -4,5 +4,5 @@ Um modelo sequencial que indica processos e atividades que devem ser seguidos qu
 ## 📕 Sumário
 | Nome | Conteúdo |
 | - | - |
-| Cascata | [conteúdo](castata.md) |
+| Cascata | [conteúdo](cascata.md) |
 | Incremental | [conteúdo](incremental.md) |
