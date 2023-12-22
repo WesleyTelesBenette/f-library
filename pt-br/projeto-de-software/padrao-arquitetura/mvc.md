@@ -14,13 +14,12 @@ O MVC, ou Model-View-Controller, é um padrão bem popular no meio do desenvolvi
 - Pode impactar negativamente o desempenho da aplicação, num contexto com um alto tráfego de dados e solicitações de usuários.
 
 ### Arquitetura
+<img src="mvc.png" width="600" />
 
-## 🪄 Exemplo Prático
+- 🟣 Cliente: Usuário que vai requisitar recursos da aplicação.
+- 🔴 Controller: Quem gerencia as requisições do usuário, e as interações gerais entre o Model e a View.
+- 🟠 Model: Classes de dados, que contemplam as regras de negócio, além de interagir diretamente com o banco de dados.
+- 🔵 View: Resposta à requisição do usário (usando os dados do Model), podendo ser em HTML, JSON, XML, TXT etc.
+- 🟢 Banco de Dados: Um banco de dados com informações salvas pela aplicação.
 
-
-<<img src="exemplo-.png" width="600" />
-
-> [!IMPORTANT]
-> É um exemplo simples e genérico, não leve tudo ao "pé da letra". <br/>
-> Não precisa ter tudo que usei, ou pode ter bem mais do que isso.
 
