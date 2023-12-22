@@ -3,6 +3,9 @@
 Você já deve ter entendido que existem muitas coisas num projeto de software, mas em ue ordem você deveria usar todas essas coisas?
 
 ## ✨ Sequência
+
+### Primeiros Passos
+- 💡 **Ideia**: não é uma etapa documentada nesse repositório, mas ter uma ideia de um software para produzir é óbiviamente o primeiro passo do desenvolvimento.
 - 🌀 **Ciclo de Vida**: você vai escolher um ciclo de vida para seguir as etapas de desenvolvimento dele.
 
 ### Etapa de "Projeto" do Ciclo de Vida
