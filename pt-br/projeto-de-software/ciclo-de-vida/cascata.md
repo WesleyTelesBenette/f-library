@@ -13,7 +13,7 @@
 - Mudanças nos requisitos são problemáticas, fazem fases precisarem ser repetidas, atrasando os prazos e aumentando os custos.
 - Como o software é desenvolvido como um todo, é difícil o manter atualizado com as tecnologias e novos requisitos.
 
-### Representação visual
+### Representação Visual
 <img src="cascata.png" width="600" />
 
 - 🔴 **Requisitos**: ...
